@@ -1,0 +1,17 @@
+{
+	"sProcessing": "请稍候...",
+	"sLengthMenu": "_MENU_项目",
+	"sZeroRecords": "暂时没有数据",
+	"sInfo": "从_START_到_END_ /共计_TOTAL_",
+	"sInfoEmpty": "0 对 0 的 0 项目",
+	"sInfoFiltered": "(已过滤_Max_条数据)",
+	"sInfoPostFix": "",
+	"sSearch": "搜索",
+	"sUrl": "",
+	"oPaginate": {
+		"sFirst":    "首页",
+		"sPrevious": "前一页",
+		"sNext":     "后一页",
+		"sLast":     "尾页"
+	}
+}
