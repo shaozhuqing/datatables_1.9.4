@@ -13,6 +13,10 @@
 
 如果您发现数据表中的缺陷，有任何改进建议，或者即使你只是想使用它，请与我取得联系 http://shaozhuqing.com
 
+
+-------------------------------------------------------------------------------------
+
+
 This DataTables plugin (v1.9.x) for jQuery was developed out of the desire to allow highly configurable access to HTML tables with advanced access features.
 
 For detailed installation, usage and API instructions, please refer to the DataTables web-pages: http://www.datatables.net
